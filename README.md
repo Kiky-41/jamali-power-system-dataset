@@ -1,4 +1,5 @@
 # ⚡ Jamali Power System Dataset v1.0.0
+[![DOI](https://zenodo.org/badge/1233957236.svg)](https://doi.org/10.5281/zenodo.20098064)
 
 Initial public release of an operational and generation dataset for the Java–Madura–Bali (Jamali) interconnected power system.
 
